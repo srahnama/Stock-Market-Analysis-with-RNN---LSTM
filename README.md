@@ -7,6 +7,8 @@
     - Evaluation
 ### Example result
 
+![alt text](https://raw.githubusercontent.com/srahnama/Stock-Market-Analysis-with-RNN---LSTM/main/Shahab%20Rahnama%20-%20Examplae%20result.png)
+
 ## What is RNN? 
 Recurrent Neural Networks can Memorize/remember previous inputs in-memory When a huge set of Sequential data is given to it.
 
